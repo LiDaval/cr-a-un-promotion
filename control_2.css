@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+.banniere {
+    display: flex;
+}
+.rebour {
+    margin-left: 220px;
+}
+.txt {
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+.flè {
+    margin-left: 690px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+h2:hover {
+    font-family: 'Press Start 2P', cursive;
+}
