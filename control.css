@@ -1,0 +1,22 @@
+.menu {
+ background-color: blue;
+ display: flex;
+ gap: 150px;
+}
+.Logo {
+    border: 2px solid red;
+    padding-left: 30px;
+}
+img {
+    width: 30%;
+    display: block;
+}
+.LeProduit {
+    border: 2px solid red;
+}
+.titre {
+    font-family: 'Nabla', cursive;
+}
+h5 {
+    font-family: 'Nabla', cursive;
+}
